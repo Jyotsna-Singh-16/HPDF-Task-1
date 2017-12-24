@@ -11,3 +11,10 @@
   <br/>
   <img src="https://github.com/Jyotsna-Singh-16/HPDF-Task-1/blob/master/src/timeline1.png" />
 </ol>
+<h2>B.Instructions to run the React App -Twitter Searchpage (AADHAR) </h2>
+<ol>
+  <li>Type<b>'aadhar'</b> in the search twitter box and <b>click on the search icon.</b> </li>
+  <li>You will have the <b>Twitter Aadhar Serchpage</b> running on your browser.</li>
+  </ol>
+  <br/>
+  
