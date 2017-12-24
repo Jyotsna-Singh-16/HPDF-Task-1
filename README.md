@@ -8,6 +8,7 @@
   <li>Run <b>npm start </b> from your terminal to start the server in development mode.
   <li>Head to <a href=http://localhost:3000/>http://localhost:3000</a> on your browser.</li>
   <li>You will have the <b>Twitter Timeline</b> running on your browser.</li>
+  <br/>
   <img src="https://github.com/Jyotsna-Singh-16/HPDF-Task-1/blob/master/src/timeline1.png" />
 
 </ol>
