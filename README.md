@@ -7,7 +7,7 @@
   <li> Run <b> npm install </b> from your terminal to install all dependencies.</li>
   <li>Run <b>npm start </b> from your terminal to start the server in development mode.
   <li>Head to <a href=http://localhost:3000/>http://localhost:3000</a> on your browser.</li>
-  <li>You will have the Twitter Timeline running on your browser.</li>
+  <li>You will have the <b>Twitter Timeline</b> running on your browser.</li>
   <li>
 
 </ol>
